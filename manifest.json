@@ -1,9 +1,11 @@
 {
-  "id": "hourly-work-logger",
-  "name": "Hourly Work Logger",
+  "id": "obsidian-interval-work-logger-notification",
+  "name": "Obsidian Interval Work Logger Notification",
   "version": "1.3.0",
   "minAppVersion": "0.15.0",
-  "description": "Sends native OS notifications with Remind Me Later support to log work directly into Obsidian.",
-  "author": "User",
+  "description": "Prompts you at regular intervals with native OS notifications to log your work, syncing perfectly with the Day Planner timeline.",
+  "author": "Charbel Hleyhel",
+  "authorUrl": "https://github.com/ceeach",
+  "fundingUrl": "https://www.buymeacoffee.com/charbelhl",
   "isDesktopOnly": false
 }
